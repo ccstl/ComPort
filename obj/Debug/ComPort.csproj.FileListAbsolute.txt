@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\bin\Debug\SmartDeviceProject4.exe
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\bin\Debug\SmartDeviceProject4.pdb
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Debug\SmartDeviceProject4.MainFrm.resources
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Debug\SmartDeviceProject4.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Debug\ComPort.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Debug\SmartDeviceProject4.exe
+D:\Documents\Visual Studio 2008\Projects\SmartDeviceProject4\SmartDeviceProject4\obj\Debug\SmartDeviceProject4.pdb
+D:\Documents\Visual Studio 2008\Projects\ComPort\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\ComPort\obj\Debug\ComPort.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\ComPort\obj\Debug\ComPort.MainFrm.resources
+D:\Documents\Visual Studio 2008\Projects\ComPort\bin\Debug\ComPort.exe
+D:\Documents\Visual Studio 2008\Projects\ComPort\bin\Debug\ComPort.pdb
+D:\Documents\Visual Studio 2008\Projects\ComPort\obj\Debug\ComPort.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\ComPort\obj\Debug\ComPort.exe
+D:\Documents\Visual Studio 2008\Projects\ComPort\obj\Debug\ComPort.pdb
